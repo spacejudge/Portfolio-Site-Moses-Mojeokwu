@@ -28,7 +28,7 @@ const steps = [
   {
     id: 4,
     title: "Motion Design",
-    description: "Energy in every pixel. I elevate the edit with custom motion design, kinetic typography, and seamless VFX. Every transition and graphic is timed to the beat, adding that "global polish" that keeps viewers glued to the screen.",
+    description: "Energy in every pixel. I elevate the edit with custom motion design, kinetic typography, and seamless VFX. Every transition and graphic is timed to the beat, adding that global polish that keeps viewers glued to the screen.",
     icon: Wand2,
     color: "from-primary/35 to-primary/20"
   },
