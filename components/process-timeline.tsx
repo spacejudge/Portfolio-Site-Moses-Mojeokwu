@@ -21,7 +21,7 @@ const steps = [
   {
     id: 3,
     title: "Color Grading",
-    description: "I transform flat LOG footage into a cinematic experience using Davinci Resolve Studio. From correcting skin tones to crafting a bespoke look,  ensure the visual mood resonates with your target audience.",
+    description: "I transform flat LOG footage into a cinematic experience using Davinci Resolve Studio. From correcting skin tones to crafting a bespoke look,I ensure the visual mood resonates with your target audience.",
     icon: Palette,
     color: "from-primary/30 to-primary/15"
   },
