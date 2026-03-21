@@ -28,14 +28,14 @@ const steps = [
   {
     id: 4,
     title: "Motion Design",
-    description: "Adding kinetic typography, transitions, and VFX that move to the beat. Brazilian energy, global polish.",
+    description: "Energy in every pixel. I elevate the edit with custom motion design, kinetic typography, and seamless VFX. Every transition and graphic is timed to the beat, adding that "global polish" that keeps viewers glued to the screen.",
     icon: Wand2,
     color: "from-primary/35 to-primary/20"
   },
   {
     id: 5,
-    title: "Final Polish",
-    description: "Sound design, audio mixing, and final delivery. Optimized exports for every platform.",
+    title: "Sound Design & Final Polish",
+    description: "The final immersive layer. A great edit is nothing without sound. I handle the sound design, Foley, and audio mixing for a crisp, professional finish. Finally, I deliver optimized exports tailored for YouTube, Reels, or the Big Screen.",
     icon: Sparkles,
     color: "from-primary/40 to-primary/25"
   }
