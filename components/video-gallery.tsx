@@ -48,7 +48,7 @@ const verticalVideos = [
     title: "Shaggi Camapaign Video",
     platform: "UCG SOCIALS",
     url: "https://www.instagram.com/diroptix/reel/DSzglYqDTth/",
-    thumbnail: "https://images.pexels.com/photos/3561339/pexels-photo-3561339.jpeg?auto=compress&cs=tinysrgb&w=400"
+    thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/SHAGGI.jpg"
   },
 ]
 
