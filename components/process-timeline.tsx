@@ -7,7 +7,7 @@ const steps = [
   {
     id: 1,
     title: "Narrative Architecture & Culling",
-    description: "More than just cutting. I dive deep into your raw footage to identify the "hero" moments that align with your brand voice. By stripping away the noise, I build a narrative framework that hooks the audience from the first frame.",
+    description: "More than just cutting. I dive deep into your raw footage to identify the hero moments that align with your brand voice. By stripping away the noise, I build a narrative framework that hooks the audience from the first frame.",
     icon: FileText,
     color: "from-primary/20 to-primary/5"
   },
@@ -21,14 +21,14 @@ const steps = [
   {
     id: 3,
     title: "Color Grading",
-    description: "I transform flat LOG footage into a cinematic experience using Davinci Resolve Studio. From correcting skin tones to crafting a bespoke look,I ensure the visual mood resonates with your target audience.",
+    description: "I transform flat LOG footage into a cinematic experience using Davinci Resolve Studio. From correcting skin tones to crafting a bespoke look, I ensure the visual mood resonates with your target audience.",
     icon: Palette,
     color: "from-primary/30 to-primary/15"
   },
   {
     id: 4,
     title: "Motion Design",
-    description: "Energy in every pixel. I elevate the edit with custom motion design, kinetic typography, and seamless VFX. Every transition and graphic is timed to the beat, adding that "global polish" that keeps viewers glued to the screen.",
+    description: "Energy in every pixel. I elevate the edit with custom motion design, kinetic typography, and seamless VFX. Every transition and graphic is timed to the beat, adding that global polish that keeps viewers glued to the screen.",
     icon: Wand2,
     color: "from-primary/35 to-primary/20"
   },
