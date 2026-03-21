@@ -33,7 +33,7 @@ const verticalVideos = [
     id: 4,
     title: "AFCON CAMPAIGN",
     platform: "GOLDBERG",
-    url: "https://www.instagram.com/brodashaggi/reel/DS45ysICAfO/",
+    url: "https://youtube.com/shorts/RB60h1hw31I?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/607121695_772138455207162_7213950199459552819_n.jpg"
   },
   {
