@@ -25,7 +25,7 @@ const skills = [
   "3D Animation",
   "Rhythmic Editing",
   "Narrative Structure",
-  "Brand Strategy",
+  "Visual Narrative Structure",
 ]
 
 export function TechMarquee() {
@@ -35,7 +35,7 @@ export function TechMarquee() {
       <div className="relative mb-8">
         <div className="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-r from-background to-transparent z-10" />
         <div className="absolute right-0 top-0 bottom-0 w-24 bg-gradient-to-l from-background to-transparent z-10" />
-        
+
         <motion.div
           className="flex gap-8 whitespace-nowrap"
           animate={{ x: [0, -1920] }}
@@ -64,7 +64,7 @@ export function TechMarquee() {
       <div className="relative">
         <div className="absolute left-0 top-0 bottom-0 w-24 bg-gradient-to-r from-background to-transparent z-10" />
         <div className="absolute right-0 top-0 bottom-0 w-24 bg-gradient-to-l from-background to-transparent z-10" />
-        
+
         <motion.div
           className="flex gap-6 whitespace-nowrap"
           animate={{ x: [-1920, 0] }}
@@ -99,7 +99,7 @@ export function TechMarquee() {
         <div className="flex flex-col md:flex-row items-center justify-center gap-4 p-6 rounded-2xl border border-primary/30 bg-primary/5 max-w-2xl mx-auto">
           <div className="w-12 h-12 rounded-xl bg-primary/20 flex items-center justify-center">
             <svg viewBox="0 0 24 24" className="w-6 h-6 text-primary" fill="currentColor">
-              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+              <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
             </svg>
           </div>
           <div className="text-center md:text-left">
