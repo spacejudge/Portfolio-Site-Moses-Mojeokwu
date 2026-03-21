@@ -28,7 +28,7 @@ export function Footer() {
             </h2>
             <p className="mt-4 text-muted-foreground max-w-md text-pretty">
               Whether you need viral social content or cinematic brand films,
-              let&apos;s bring your vision to life with Brazilian energy.
+              let&apos;s bring your vision to life with the creative juice and the vibe your content truly deserves.
             </p>
 
             <motion.a
