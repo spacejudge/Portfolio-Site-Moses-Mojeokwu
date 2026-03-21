@@ -19,7 +19,7 @@ const verticalVideos = [
     id: 2,
     title: "Sony Alpha",
     platform: "Creators Campaign",
-    url: "https://www.instagram.com/nowonmedia/reel/CkjBSi_jXD0/",
+    url: "https://youtube.com/shorts/vRXRWufBy_U?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/sony.jpg"
   },
   {
