@@ -12,42 +12,42 @@ const verticalVideos = [
     id: 1,
     title: "YouTube Africa",
     platform: "Google - IWD",
-    url: "https://www.instagram.com/youtubeafrica/reel/DVoOnN2jIHn/",
+    url: "https://youtube.com/shorts/pPqObl3pv6Q?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/ruth%20kadiri.jpg"
   },
   {
     id: 2,
     title: "Sony Alpha",
     platform: "Creators Campaign",
-    url: "https://www.instagram.com/nowonmedia/reel/CkjBSi_jXD0/",
+    url: "https://youtube.com/shorts/vRXRWufBy_U?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/sony.jpg"
   },
   {
     id: 3,
     title: "Akuna Matata",
     platform: "Seasoned Funfair",
-    url: "https://www.instagram.com/nowonmedia/reel/CnUAqc2qzAy/",
+    url: "https://youtube.com/shorts/fV6rPW7BAs8?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/maltina.jpg"
   },
   {
     id: 4,
     title: "AFCON CAMPAIGN",
     platform: "GOLDBERG",
-    url: "https://www.instagram.com/brodashaggi/reel/DS45ysICAfO/",
+    url: "https://youtube.com/shorts/RB60h1hw31I?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/607121695_772138455207162_7213950199459552819_n.jpg"
   },
   {
     id: 5,
     title: "Da Light",
     platform: "Summer",
-    url: "https://www.instagram.com/p/CdqB1VDALfI/",
+    url: "https://youtu.be/ZjzS9YV-GxU",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/bimmy.jpg"
   },
   {
     id: 6,
     title: "Shaggi Camapaign Video",
     platform: "UCG SOCIALS",
-    url: "https://www.instagram.com/diroptix/reel/DSzglYqDTth/",
+    url: "https://youtube.com/shorts/1ucOhEiNhTw?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/SHAGGI.jpg"
   },
 ]
