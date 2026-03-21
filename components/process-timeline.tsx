@@ -14,7 +14,7 @@ const steps = [
   {
     id: 2,
     title: "Rhythmic Assembly",
-    description: "Visual planning with shot lists, transitions, and pacing maps. Ensuring rhythmic flow from the start.",
+    description: "This is where the story takes shape. I map out transitions, pacing, and shot sequences to ensure a rhythmic flow. Whether it’s high-energy Brazilian flair or a slow-burn cinematic build, the pacing is intentional.",
     icon: Film,
     color: "from-primary/25 to-primary/10"
   },
