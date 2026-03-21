@@ -40,14 +40,14 @@ const verticalVideos = [
     id: 5,
     title: "Da Light",
     platform: "Summer",
-    url: "https://www.instagram.com/p/CdqB1VDALfI/",
+    url: "https://youtu.be/ZjzS9YV-GxU",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/bimmy.jpg"
   },
   {
     id: 6,
     title: "Shaggi Camapaign Video",
     platform: "UCG SOCIALS",
-    url: "https://www.instagram.com/diroptix/reel/DSzglYqDTth/",
+    url: "https://youtube.com/shorts/1ucOhEiNhTw?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/SHAGGI.jpg"
   },
 ]
