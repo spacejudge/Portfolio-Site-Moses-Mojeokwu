@@ -6,14 +6,14 @@ import { FileText, Film, Palette, Wand2, Sparkles, CheckCircle2 } from "lucide-r
 const steps = [
   {
     id: 1,
-    title: "Scripting & Strategy",
-    description: "Understanding your brand voice, target audience, and content goals. Creating a narrative framework that resonates.",
+    title: "Narrative Architecture & Culling",
+    description: "More than just cutting. I dive deep into your raw footage to identify the "hero" moments that align with your brand voice. By stripping away the noise, I build a narrative framework that hooks the audience from the first frame.",
     icon: FileText,
     color: "from-primary/20 to-primary/5"
   },
   {
     id: 2,
-    title: "Storyboarding",
+    title: "Rhythmic Assembly",
     description: "Visual planning with shot lists, transitions, and pacing maps. Ensuring rhythmic flow from the start.",
     icon: Film,
     color: "from-primary/25 to-primary/10"
@@ -74,9 +74,8 @@ export function ProcessTimeline() {
                 whileInView={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6, delay: index * 0.1 }}
                 viewport={{ once: true, margin: "-50px" }}
-                className={`relative flex items-center gap-6 mb-12 last:mb-0 ${
-                  isEven ? "md:flex-row" : "md:flex-row-reverse"
-                }`}
+                className={`relative flex items-center gap-6 mb-12 last:mb-0 ${isEven ? "md:flex-row" : "md:flex-row-reverse"
+                  }`}
               >
                 {/* Timeline dot */}
                 <div className="absolute left-8 md:left-1/2 w-4 h-4 rounded-full bg-primary border-4 border-background -translate-x-1/2 z-10">
