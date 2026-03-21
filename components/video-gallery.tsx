@@ -26,7 +26,7 @@ const verticalVideos = [
     id: 3,
     title: "Akuna Matata",
     platform: "Seasoned Funfair",
-    url: "https://www.instagram.com/nowonmedia/reel/CnUAqc2qzAy/",
+    url: "https://youtube.com/shorts/fV6rPW7BAs8?feature=share",
     thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/maltina.jpg"
   },
   {
