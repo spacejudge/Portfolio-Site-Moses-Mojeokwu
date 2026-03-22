@@ -70,13 +70,13 @@ const horizontalVideos = [
   {
     id: 3,
     title: "Tech & Commerce",
-    type: "Startup Campaign",
+    type: "Startup",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/380089781?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
   },
   {
     id: 4,
-    title: "Creative Showcase",
+    title: "FMCG Commercial",
     type: "Showcase",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/888822688?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
