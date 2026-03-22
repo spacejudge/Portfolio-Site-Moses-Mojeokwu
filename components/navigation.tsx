@@ -66,9 +66,13 @@ export function Navigation() {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <button className="px-5 py-2.5 bg-primary text-primary-foreground text-sm font-medium rounded-full hover:bg-primary/90 transition-colors">
+            <a
+              href="mailto:diroptix@gmail.com?subject=Project%20Inquiry%20-%20Moses%20Mojeokwu"
+              className="inline-block px-5 py-2.5 bg-primary text-primary-foreground text-sm font-medium rounded-full hover:bg-primary/90 transition-colors"
+              aria-label="Send email to inquire about a project"
+            >
               Get in Touch
-            </button>
+            </a>
           </div>
 
           {/* Mobile Menu Button */}
@@ -111,14 +115,17 @@ export function Navigation() {
                     {item.label}
                   </motion.a>
                 ))}
-                <motion.button
+                <motion.a
+                  href="mailto:diroptix@gmail.com?subject=Project%20Inquiry%20-%20Moses%20Mojeokwu"
                   initial={{ opacity: 0 }}
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.4 }}
-                  className="mt-4 px-8 py-4 bg-primary text-primary-foreground font-medium rounded-full"
+                  className="mt-4 px-8 py-4 bg-primary text-primary-foreground font-medium rounded-full text-center"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                  aria-label="Send email to inquire about a project"
                 >
                   Get in Touch
-                </motion.button>
+                </motion.a>
               </div>
             </div>
           </motion.div>
