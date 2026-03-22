@@ -76,7 +76,7 @@ const horizontalVideos = [
   },
   {
     id: 4,
-    title: "FMCG Commercial",
+    title: "FMCG",
     type: "Showcase",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/888822688?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
