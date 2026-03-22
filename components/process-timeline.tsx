@@ -14,7 +14,7 @@ const steps = [
   {
     id: 2,
     title: "Rhythmic Assembly",
-    description: "This is where the story takes shape. I map out transitions, pacing, and shot sequences to ensure a rhythmic flow. Whether it's high-energy Brazilian flair or a slow-burn cinematic build, the pacing is intentional.",
+    description: "This is where the story takes shape. I map out transitions, pacing, and shot sequences to ensure a rhythmic flow. Whether it's high-energy flair or a slow-burn cinematic build, the pacing is intentional.",
     icon: Film,
     color: "from-primary/25 to-primary/10"
   },
@@ -126,7 +126,7 @@ export function ProcessTimeline() {
           >
             <div className="flex items-center gap-3 px-6 py-3 rounded-full border border-primary bg-primary/10">
               <CheckCircle2 className="w-5 h-5 text-primary" />
-              <span className="font-medium text-primary">Lets Get started</span>
+              <span className="font-medium text-primary">Let's Get started</span>
             </div>
           </motion.div>
         </div>

@@ -55,28 +55,28 @@ const verticalVideos = [
 const horizontalVideos = [
   {
     id: 1,
-    title: "Cinematic Documentary",
-    type: "Documentary",
+    title: "Commercial Campaign",
+    type: "Commercial",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/472914950?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
   },
   {
     id: 2,
-    title: "Commercial Campaign",
-    type: "Commercial",
+    title: "Cinematic Documentary",
+    type: "Documentary",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/402129951?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
   },
   {
     id: 3,
-    title: "Brand Film",
-    type: "Brand",
+    title: "Tech & Commerce",
+    type: "Startup",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/380089781?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
   },
   {
     id: 4,
-    title: "Creative Showcase",
+    title: "FMCG Commercial",
     type: "Showcase",
     duration: "Full",
     vimeoUrl: "https://player.vimeo.com/video/888822688?background=1&autoplay=1&loop=1&byline=0&title=0&portrait=0&muted=1&quality=hd"
