@@ -42,7 +42,7 @@ export function AboutSection() {
               <div className="absolute inset-0 bg-gradient-to-t from-background/80 via-transparent to-transparent" />
 
               {/* Decorative elements */}
-              <div className="absolute top-4 right-4 flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/20 backdrop-blur-sm border border-primary/30">
+              <div className="absolute top-4 right-4 flex items-center gap-2 px-3 py-1.5 rounded-full bg-primary/60 backdrop-blur-sm border border-primary/30">
                 <Zap className="w-3 h-3 text-primary" />
                 <span className="text-xs font-medium text-primary">Available for Work</span>
               </div>
