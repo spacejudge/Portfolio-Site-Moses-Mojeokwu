@@ -13,7 +13,7 @@ const verticalVideos = [
     title: "YouTube Africa",
     platform: "Google - IWD",
     url: "https://youtube.com/shorts/pPqObl3pv6Q?feature=share",
-    thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/ruth%20kadiri.jpg"
+    thumbnail: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202026-07-11%20at%2000.03.05-qCESyQC0dnK6K1gsPpPrFZNZM0Tuho.png"
   },
   {
     id: 2,
