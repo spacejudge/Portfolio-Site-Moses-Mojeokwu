@@ -125,7 +125,7 @@ export function VideoGallery() {
               </div>
             </div>
 
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
+            <div className="grid grid-cols-3 gap-4">
               {verticalVideos.map((video, index) => (
                 <motion.div
                   key={video.id}
