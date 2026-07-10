@@ -20,7 +20,7 @@ const verticalVideos = [
     title: "Sony Alpha",
     platform: "Creators Campaign",
     url: "https://youtube.com/shorts/vRXRWufBy_U?feature=share",
-    thumbnail: "https://69be76bf4958986cce4f2330.imgix.net/sony.jpg"
+    thumbnail: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202026-07-11%20at%2000.06.37-NCyv8Thqfxf0FXhKmfA8qQ4zDPWz4X.png"
   },
   {
     id: 3,
